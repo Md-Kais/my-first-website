@@ -13,3 +13,10 @@
 13.git branch -M main
 14.git remote copy then
 15.at last push it by doing ,git push -u origin main(     push korbo, untracked(u) ke, main origin er jegular")
+16. if the repo is already created and then you modify it ! you have to do next 3 tasks to reupload your project their
+   16.1: git add .
+   16.2: git commit -m "jeishob change korso"
+   16.3: git push
+17.if two or more people change your project then you have to pull it to change it with your own way ! and so, you have to run this CODE " git pull"
+   ..........................................end.......................................
+   
