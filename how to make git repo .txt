@@ -1,0 +1,15 @@
+1.at first you have to make a github acc.
+2.then, you have to click the '+' button  top-corner of the site
+3.then you create a unique name for your repo. you cannot use space in there
+4.follow the instructions
+5. then follow the instructions;
+6.first you have to remind this repo is pre-build or not 
+7.if the repo is not build then , you have to customize the VS CODE
+8.at first, change the terminal to powershell to bash
+9.then we have to copy the path startswith echo
+10. then we initialize the git by doing "git init"
+11.then,add the file(all file) by doing ("git add .");
+12.then,git commit the file(git commit -M"first commit")
+13.git branch -M main
+14.git remote copy then
+15.at last push it by doing ,git push -u origin main(     push korbo, untracked(u) ke, main origin er jegular")
